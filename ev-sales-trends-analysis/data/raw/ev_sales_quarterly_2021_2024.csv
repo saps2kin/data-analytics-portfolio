@@ -1,0 +1,385 @@
+Year,Quarter,Manufacturer,Region,Sales_Thousands
+2021,Q1,Tesla,North America,52.5
+2021,Q1,Tesla,Europe,44.3
+2021,Q1,Tesla,China,43.2
+2021,Q1,Tesla,Asia ex-China,42.6
+2021,Q1,BYD,North America,58.8
+2021,Q1,BYD,Europe,52.8
+2021,Q1,BYD,China,85.9
+2021,Q1,BYD,Asia ex-China,45.8
+2021,Q1,Volkswagen,North America,32.7
+2021,Q1,Volkswagen,Europe,34.2
+2021,Q1,Volkswagen,China,25.7
+2021,Q1,Volkswagen,Asia ex-China,22.2
+2021,Q1,Hyundai,North America,33.7
+2021,Q1,Hyundai,Europe,19.7
+2021,Q1,Hyundai,China,17.4
+2021,Q1,Hyundai,Asia ex-China,19.9
+2021,Q1,Ford,North America,19.9
+2021,Q1,Ford,Europe,24.1
+2021,Q1,Ford,China,15.5
+2021,Q1,Ford,Asia ex-China,10.4
+2021,Q1,GM,North America,29.8
+2021,Q1,GM,Europe,19.1
+2021,Q1,GM,China,18.3
+2021,Q1,GM,Asia ex-China,8.6
+2021,Q2,Tesla,North America,47.3
+2021,Q2,Tesla,Europe,45.6
+2021,Q2,Tesla,China,34.2
+2021,Q2,Tesla,Asia ex-China,36.9
+2021,Q2,BYD,North America,57.0
+2021,Q2,BYD,Europe,52.5
+2021,Q2,BYD,China,75.0
+2021,Q2,BYD,Asia ex-China,51.3
+2021,Q2,Volkswagen,North America,34.9
+2021,Q2,Volkswagen,Europe,26.2
+2021,Q2,Volkswagen,China,32.1
+2021,Q2,Volkswagen,Asia ex-China,18.4
+2021,Q2,Hyundai,North America,33.5
+2021,Q2,Hyundai,Europe,19.5
+2021,Q2,Hyundai,China,19.4
+2021,Q2,Hyundai,Asia ex-China,23.7
+2021,Q2,Ford,North America,28.7
+2021,Q2,Ford,Europe,23.4
+2021,Q2,Ford,China,19.4
+2021,Q2,Ford,Asia ex-China,16.0
+2021,Q2,GM,North America,15.1
+2021,Q2,GM,Europe,16.7
+2021,Q2,GM,China,15.7
+2021,Q2,GM,Asia ex-China,21.0
+2021,Q3,Tesla,North America,51.7
+2021,Q3,Tesla,Europe,36.2
+2021,Q3,Tesla,China,41.6
+2021,Q3,Tesla,Asia ex-China,33.1
+2021,Q3,BYD,North America,56.6
+2021,Q3,BYD,Europe,57.1
+2021,Q3,BYD,China,83.2
+2021,Q3,BYD,Asia ex-China,46.7
+2021,Q3,Volkswagen,North America,30.8
+2021,Q3,Volkswagen,Europe,30.0
+2021,Q3,Volkswagen,China,29.7
+2021,Q3,Volkswagen,Asia ex-China,29.4
+2021,Q3,Hyundai,North America,30.1
+2021,Q3,Hyundai,Europe,28.3
+2021,Q3,Hyundai,China,20.5
+2021,Q3,Hyundai,Asia ex-China,16.8
+2021,Q3,Ford,North America,29.1
+2021,Q3,Ford,Europe,29.3
+2021,Q3,Ford,China,19.6
+2021,Q3,Ford,Asia ex-China,22.5
+2021,Q3,GM,North America,24.3
+2021,Q3,GM,Europe,17.0
+2021,Q3,GM,China,19.8
+2021,Q3,GM,Asia ex-China,23.4
+2021,Q4,Tesla,North America,49.8
+2021,Q4,Tesla,Europe,52.8
+2021,Q4,Tesla,China,26.9
+2021,Q4,Tesla,Asia ex-China,39.1
+2021,Q4,BYD,North America,60.4
+2021,Q4,BYD,Europe,52.5
+2021,Q4,BYD,China,78.5
+2021,Q4,BYD,Asia ex-China,32.1
+2021,Q4,Volkswagen,North America,33.9
+2021,Q4,Volkswagen,Europe,33.3
+2021,Q4,Volkswagen,China,35.4
+2021,Q4,Volkswagen,Asia ex-China,21.9
+2021,Q4,Hyundai,North America,28.5
+2021,Q4,Hyundai,Europe,26.7
+2021,Q4,Hyundai,China,30.6
+2021,Q4,Hyundai,Asia ex-China,24.4
+2021,Q4,Ford,North America,22.4
+2021,Q4,Ford,Europe,25.1
+2021,Q4,Ford,China,20.5
+2021,Q4,Ford,Asia ex-China,22.3
+2021,Q4,GM,North America,19.0
+2021,Q4,GM,Europe,18.6
+2021,Q4,GM,China,16.0
+2021,Q4,GM,Asia ex-China,8.4
+2022,Q1,Tesla,North America,66.5
+2022,Q1,Tesla,Europe,59.8
+2022,Q1,Tesla,China,52.0
+2022,Q1,Tesla,Asia ex-China,44.3
+2022,Q1,BYD,North America,70.9
+2022,Q1,BYD,Europe,68.1
+2022,Q1,BYD,China,99.7
+2022,Q1,BYD,Asia ex-China,50.6
+2022,Q1,Volkswagen,North America,44.7
+2022,Q1,Volkswagen,Europe,43.0
+2022,Q1,Volkswagen,China,45.8
+2022,Q1,Volkswagen,Asia ex-China,32.7
+2022,Q1,Hyundai,North America,43.5
+2022,Q1,Hyundai,Europe,37.7
+2022,Q1,Hyundai,China,24.2
+2022,Q1,Hyundai,Asia ex-China,29.4
+2022,Q1,Ford,North America,32.8
+2022,Q1,Ford,Europe,41.6
+2022,Q1,Ford,China,25.0
+2022,Q1,Ford,Asia ex-China,24.3
+2022,Q1,GM,North America,29.1
+2022,Q1,GM,Europe,20.5
+2022,Q1,GM,China,29.1
+2022,Q1,GM,Asia ex-China,24.2
+2022,Q2,Tesla,North America,69.0
+2022,Q2,Tesla,Europe,54.0
+2022,Q2,Tesla,China,59.0
+2022,Q2,Tesla,Asia ex-China,38.5
+2022,Q2,BYD,North America,80.9
+2022,Q2,BYD,Europe,81.2
+2022,Q2,BYD,China,96.4
+2022,Q2,BYD,Asia ex-China,51.8
+2022,Q2,Volkswagen,North America,46.0
+2022,Q2,Volkswagen,Europe,38.4
+2022,Q2,Volkswagen,China,28.6
+2022,Q2,Volkswagen,Asia ex-China,32.2
+2022,Q2,Hyundai,North America,36.9
+2022,Q2,Hyundai,Europe,40.4
+2022,Q2,Hyundai,China,29.2
+2022,Q2,Hyundai,Asia ex-China,37.3
+2022,Q2,Ford,North America,28.6
+2022,Q2,Ford,Europe,27.6
+2022,Q2,Ford,China,30.1
+2022,Q2,Ford,Asia ex-China,16.6
+2022,Q2,GM,North America,30.4
+2022,Q2,GM,Europe,32.9
+2022,Q2,GM,China,15.4
+2022,Q2,GM,Asia ex-China,21.4
+2022,Q3,Tesla,North America,66.3
+2022,Q3,Tesla,Europe,62.4
+2022,Q3,Tesla,China,45.8
+2022,Q3,Tesla,Asia ex-China,38.9
+2022,Q3,BYD,North America,80.6
+2022,Q3,BYD,Europe,71.7
+2022,Q3,BYD,China,102.7
+2022,Q3,BYD,Asia ex-China,56.3
+2022,Q3,Volkswagen,North America,42.1
+2022,Q3,Volkswagen,Europe,42.1
+2022,Q3,Volkswagen,China,37.9
+2022,Q3,Volkswagen,Asia ex-China,28.3
+2022,Q3,Hyundai,North America,51.6
+2022,Q3,Hyundai,Europe,40.4
+2022,Q3,Hyundai,China,27.8
+2022,Q3,Hyundai,Asia ex-China,32.9
+2022,Q3,Ford,North America,27.6
+2022,Q3,Ford,Europe,33.2
+2022,Q3,Ford,China,31.8
+2022,Q3,Ford,Asia ex-China,18.6
+2022,Q3,GM,North America,34.1
+2022,Q3,GM,Europe,28.4
+2022,Q3,GM,China,27.5
+2022,Q3,GM,Asia ex-China,30.0
+2022,Q4,Tesla,North America,63.8
+2022,Q4,Tesla,Europe,54.7
+2022,Q4,Tesla,China,47.6
+2022,Q4,Tesla,Asia ex-China,41.4
+2022,Q4,BYD,North America,77.6
+2022,Q4,BYD,Europe,71.9
+2022,Q4,BYD,China,102.8
+2022,Q4,BYD,Asia ex-China,58.7
+2022,Q4,Volkswagen,North America,45.6
+2022,Q4,Volkswagen,Europe,48.2
+2022,Q4,Volkswagen,China,35.1
+2022,Q4,Volkswagen,Asia ex-China,45.5
+2022,Q4,Hyundai,North America,45.4
+2022,Q4,Hyundai,Europe,33.7
+2022,Q4,Hyundai,China,28.4
+2022,Q4,Hyundai,Asia ex-China,32.0
+2022,Q4,Ford,North America,31.4
+2022,Q4,Ford,Europe,32.8
+2022,Q4,Ford,China,28.4
+2022,Q4,Ford,Asia ex-China,22.4
+2022,Q4,GM,North America,25.0
+2022,Q4,GM,Europe,18.8
+2022,Q4,GM,China,21.2
+2022,Q4,GM,Asia ex-China,24.8
+2023,Q1,Tesla,North America,81.1
+2023,Q1,Tesla,Europe,65.8
+2023,Q1,Tesla,China,64.9
+2023,Q1,Tesla,Asia ex-China,57.9
+2023,Q1,BYD,North America,91.6
+2023,Q1,BYD,Europe,87.2
+2023,Q1,BYD,China,125.1
+2023,Q1,BYD,Asia ex-China,61.5
+2023,Q1,Volkswagen,North America,57.8
+2023,Q1,Volkswagen,Europe,53.2
+2023,Q1,Volkswagen,China,50.2
+2023,Q1,Volkswagen,Asia ex-China,44.5
+2023,Q1,Hyundai,North America,45.1
+2023,Q1,Hyundai,Europe,42.1
+2023,Q1,Hyundai,China,44.2
+2023,Q1,Hyundai,Asia ex-China,39.0
+2023,Q1,Ford,North America,42.6
+2023,Q1,Ford,Europe,55.3
+2023,Q1,Ford,China,34.9
+2023,Q1,Ford,Asia ex-China,33.7
+2023,Q1,GM,North America,40.8
+2023,Q1,GM,Europe,35.7
+2023,Q1,GM,China,27.2
+2023,Q1,GM,Asia ex-China,29.0
+2023,Q2,Tesla,North America,76.1
+2023,Q2,Tesla,Europe,70.8
+2023,Q2,Tesla,China,61.6
+2023,Q2,Tesla,Asia ex-China,56.4
+2023,Q2,BYD,North America,107.6
+2023,Q2,BYD,Europe,77.1
+2023,Q2,BYD,China,128.2
+2023,Q2,BYD,Asia ex-China,59.1
+2023,Q2,Volkswagen,North America,53.6
+2023,Q2,Volkswagen,Europe,55.8
+2023,Q2,Volkswagen,China,45.1
+2023,Q2,Volkswagen,Asia ex-China,33.8
+2023,Q2,Hyundai,North America,48.4
+2023,Q2,Hyundai,Europe,50.2
+2023,Q2,Hyundai,China,37.9
+2023,Q2,Hyundai,Asia ex-China,37.5
+2023,Q2,Ford,North America,40.2
+2023,Q2,Ford,Europe,32.7
+2023,Q2,Ford,China,42.7
+2023,Q2,Ford,Asia ex-China,31.2
+2023,Q2,GM,North America,25.9
+2023,Q2,GM,Europe,33.3
+2023,Q2,GM,China,25.5
+2023,Q2,GM,Asia ex-China,29.5
+2023,Q3,Tesla,North America,76.0
+2023,Q3,Tesla,Europe,71.4
+2023,Q3,Tesla,China,66.5
+2023,Q3,Tesla,Asia ex-China,60.3
+2023,Q3,BYD,North America,90.0
+2023,Q3,BYD,Europe,84.7
+2023,Q3,BYD,China,122.4
+2023,Q3,BYD,Asia ex-China,63.9
+2023,Q3,Volkswagen,North America,64.8
+2023,Q3,Volkswagen,Europe,52.4
+2023,Q3,Volkswagen,China,38.5
+2023,Q3,Volkswagen,Asia ex-China,43.8
+2023,Q3,Hyundai,North America,62.6
+2023,Q3,Hyundai,Europe,52.0
+2023,Q3,Hyundai,China,34.0
+2023,Q3,Hyundai,Asia ex-China,34.0
+2023,Q3,Ford,North America,46.3
+2023,Q3,Ford,Europe,32.5
+2023,Q3,Ford,China,34.2
+2023,Q3,Ford,Asia ex-China,31.9
+2023,Q3,GM,North America,31.4
+2023,Q3,GM,Europe,32.1
+2023,Q3,GM,China,12.6
+2023,Q3,GM,Asia ex-China,20.1
+2023,Q4,Tesla,North America,78.7
+2023,Q4,Tesla,Europe,65.8
+2023,Q4,Tesla,China,72.2
+2023,Q4,Tesla,Asia ex-China,48.8
+2023,Q4,BYD,North America,93.8
+2023,Q4,BYD,Europe,87.1
+2023,Q4,BYD,China,132.0
+2023,Q4,BYD,Asia ex-China,60.0
+2023,Q4,Volkswagen,North America,61.8
+2023,Q4,Volkswagen,Europe,50.5
+2023,Q4,Volkswagen,China,39.9
+2023,Q4,Volkswagen,Asia ex-China,41.5
+2023,Q4,Hyundai,North America,53.0
+2023,Q4,Hyundai,Europe,43.8
+2023,Q4,Hyundai,China,41.9
+2023,Q4,Hyundai,Asia ex-China,34.5
+2023,Q4,Ford,North America,40.6
+2023,Q4,Ford,Europe,39.3
+2023,Q4,Ford,China,39.9
+2023,Q4,Ford,Asia ex-China,21.8
+2023,Q4,GM,North America,46.7
+2023,Q4,GM,Europe,22.6
+2023,Q4,GM,China,28.0
+2023,Q4,GM,Asia ex-China,28.1
+2024,Q1,Tesla,North America,96.4
+2024,Q1,Tesla,Europe,82.4
+2024,Q1,Tesla,China,75.0
+2024,Q1,Tesla,Asia ex-China,64.0
+2024,Q1,BYD,North America,111.1
+2024,Q1,BYD,Europe,106.8
+2024,Q1,BYD,China,150.0
+2024,Q1,BYD,Asia ex-China,76.3
+2024,Q1,Volkswagen,North America,71.0
+2024,Q1,Volkswagen,Europe,61.4
+2024,Q1,Volkswagen,China,57.3
+2024,Q1,Volkswagen,Asia ex-China,49.7
+2024,Q1,Hyundai,North America,57.6
+2024,Q1,Hyundai,Europe,52.8
+2024,Q1,Hyundai,China,53.1
+2024,Q1,Hyundai,Asia ex-China,46.3
+2024,Q1,Ford,North America,47.4
+2024,Q1,Ford,Europe,43.3
+2024,Q1,Ford,China,44.4
+2024,Q1,Ford,Asia ex-China,30.3
+2024,Q1,GM,North America,45.5
+2024,Q1,GM,Europe,37.5
+2024,Q1,GM,China,33.1
+2024,Q1,GM,Asia ex-China,35.4
+2024,Q2,Tesla,North America,99.1
+2024,Q2,Tesla,Europe,89.6
+2024,Q2,Tesla,China,82.5
+2024,Q2,Tesla,Asia ex-China,66.6
+2024,Q2,BYD,North America,117.4
+2024,Q2,BYD,Europe,101.0
+2024,Q2,BYD,China,149.8
+2024,Q2,BYD,Asia ex-China,79.1
+2024,Q2,Volkswagen,North America,67.0
+2024,Q2,Volkswagen,Europe,62.8
+2024,Q2,Volkswagen,China,49.1
+2024,Q2,Volkswagen,Asia ex-China,57.0
+2024,Q2,Hyundai,North America,56.7
+2024,Q2,Hyundai,Europe,49.5
+2024,Q2,Hyundai,China,55.2
+2024,Q2,Hyundai,Asia ex-China,47.2
+2024,Q2,Ford,North America,50.6
+2024,Q2,Ford,Europe,45.9
+2024,Q2,Ford,China,37.9
+2024,Q2,Ford,Asia ex-China,28.8
+2024,Q2,GM,North America,43.1
+2024,Q2,GM,Europe,35.1
+2024,Q2,GM,China,39.1
+2024,Q2,GM,Asia ex-China,29.2
+2024,Q3,Tesla,North America,90.9
+2024,Q3,Tesla,Europe,83.9
+2024,Q3,Tesla,China,78.1
+2024,Q3,Tesla,Asia ex-China,63.7
+2024,Q3,BYD,North America,109.9
+2024,Q3,BYD,Europe,103.8
+2024,Q3,BYD,China,149.4
+2024,Q3,BYD,Asia ex-China,77.3
+2024,Q3,Volkswagen,North America,64.1
+2024,Q3,Volkswagen,Europe,61.0
+2024,Q3,Volkswagen,China,46.0
+2024,Q3,Volkswagen,Asia ex-China,39.5
+2024,Q3,Hyundai,North America,58.2
+2024,Q3,Hyundai,Europe,54.5
+2024,Q3,Hyundai,China,51.0
+2024,Q3,Hyundai,Asia ex-China,50.6
+2024,Q3,Ford,North America,51.8
+2024,Q3,Ford,Europe,42.0
+2024,Q3,Ford,China,37.9
+2024,Q3,Ford,Asia ex-China,28.2
+2024,Q3,GM,North America,42.7
+2024,Q3,GM,Europe,37.0
+2024,Q3,GM,China,35.8
+2024,Q3,GM,Asia ex-China,25.8
+2024,Q4,Tesla,North America,97.6
+2024,Q4,Tesla,Europe,93.2
+2024,Q4,Tesla,China,75.5
+2024,Q4,Tesla,Asia ex-China,68.5
+2024,Q4,BYD,North America,117.5
+2024,Q4,BYD,Europe,100.6
+2024,Q4,BYD,China,149.3
+2024,Q4,BYD,Asia ex-China,79.9
+2024,Q4,Volkswagen,North America,67.0
+2024,Q4,Volkswagen,Europe,56.0
+2024,Q4,Volkswagen,China,53.3
+2024,Q4,Volkswagen,Asia ex-China,49.0
+2024,Q4,Hyundai,North America,69.0
+2024,Q4,Hyundai,Europe,60.4
+2024,Q4,Hyundai,China,60.2
+2024,Q4,Hyundai,Asia ex-China,39.4
+2024,Q4,Ford,North America,51.9
+2024,Q4,Ford,Europe,43.7
+2024,Q4,Ford,China,48.9
+2024,Q4,Ford,Asia ex-China,29.2
+2024,Q4,GM,North America,38.6
+2024,Q4,GM,Europe,35.5
+2024,Q4,GM,China,23.6
+2024,Q4,GM,Asia ex-China,27.3
