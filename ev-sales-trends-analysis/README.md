@@ -15,5 +15,13 @@ Insights from this project support data-driven decisions such as adjusting produ
 
 The dataset is synthetic and designed to reflect realistic market dynamics for portfolio demonstration purposes.
 
-## Key Insight
-- BYD leads total EV sales over the 2021–2024 period with approximately 1.5 million vehicles sold, followed by Tesla.
+## Key Insights
+- BYD leads total EV sales over the 2021–2024 period with approximately 1.5 million vehicles sold, followed by Tesla.  
+- Tesla demonstrates the most consistent year-over-year growth, with BYD showing the second most stable growth pattern. Other manufacturers exhibit more volatile and inconsistent growth over the same period.
+
+## Visuals
+### Total EV Sales by Manufacturer
+![Total EV Sales by Manufacturer](visuals/total_ev_sales_by_manufacturer.png)
+
+### Year-over-Year Growth Rate by Manufacturer
+![YoY Growth by Manufacturer](visuals/yoy_growth_by_manufacturer.png)
